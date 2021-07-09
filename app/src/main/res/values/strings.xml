@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShareCalculator</string>
+    <string name="wacc">ShareCalculator</string>
+    <string name="average">Selling/Buying</string>
+    <string name="ipo">Initial Public Offering</string>
+    <string name="right">Right Adjustment </string>
+    <string name="bonus">Bonus  Adjustment </string>
+</resources>
